@@ -28,6 +28,6 @@ def num_translate_adv(my_digit):
     return var_num_translate
 
 
-print(num_translate_adv(input('Введите числительное на английском от 1 до'
-              ' 10 или нажмите "y" и "Enter" для'
-              'автоматического выбора числа ')))
+print(num_translate_adv(input('Введите числительное на английском от '
+                              '1 до 10 или нажмите "y" и "Enter" для '
+                              'автоматического выбора числа ')))
